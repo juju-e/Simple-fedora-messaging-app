@@ -12,7 +12,7 @@ python listen_or_publish.py
 ```
 It will automatically prompt you to choose between listening or publishing a message.
 Just give 2 as  and it will automatically start listening for messages.
-#### !!!!.you need to have a publisher enabled to listen to messages
+#### !!!!.you need to have a publisher enabled to listen to messages otherwise the listener will still be blank
 For more info here is an [asciinema](https://asciinema.org/a/R9a3uQnLyY5BEubgn8vPZQqzH)
 
 ### 2.Publish
