@@ -1,6 +1,9 @@
 # Simple-fedora-messaging-app
 # A Fedora messaging program for GCI2019
-
+### (to install all the needed modules)
+```
+$ pip install -r requirements.txt
+```
 ## To use this simple app you have 2 options:
 ### 1.Listen
 Just type in the terminal
